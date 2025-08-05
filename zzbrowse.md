@@ -28,14 +28,6 @@ Articles
 
 Switch from local (as on laptops) to remote (as on dev/prod VMs) Highcharts script.
 
-Update deprecated `shiny` methods to `DT` methods (in `server.R`):
-```
-`shiny::renderDataTable()` is deprecated as of shiny 1.8.1.
-Please use `DT::renderDT()` instead.
-`shiny::dataTableOutput()` is deprecated as of shiny 1.8.1.  Please use `DT::DTOutput()` instead.
-See <https://rstudio.github.io/DT/shiny.html> for more information.
-```
-
 Consistent (as opposed to contrasting) trait colors: implemented locally by hashing trait name.
 
 New species: lentil, lima bean, etc.
