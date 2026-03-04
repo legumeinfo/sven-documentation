@@ -1,6 +1,6 @@
 # Sven's Documentation
 
-Notes on my work, through September 2024.
+Notes on my work, through March 2026.
 
 ### Projects
 
@@ -17,6 +17,7 @@ Notes on my work, through September 2024.
 * [SequenceServer](sequenceserver.md)
 * [shiny-microservices](shiny-microservices.md)
 * [ShinyCell](shinycell.md)
+* [ShinyCell2](shinycell2.md)
 * [taxon-symbology](taxon-symbology.md)
 * [ZZBrowse](zzbrowse.md)
 
