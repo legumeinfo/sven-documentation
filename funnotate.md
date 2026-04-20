@@ -12,6 +12,7 @@ First cut at a containerized version. Uses the legfed_v1_0.L_xxxxxx gene familie
 
 [new-gene-families](https://github.com/legumeinfo/Funnotate/tree/new-gene-families) -
 Containerized version that uses the Legume_fam3_nnnnn gene families, with species color coded by taxon-symbology 1.1.0.
+It now also has access to the old legfed_v1_0.L_xxxxxx gene families for phylotree purposes.
 
 I think the idea is not to eventually merge the branches, but to choose one in `docker-compose.yml`.
 
@@ -21,10 +22,10 @@ http://dev.lis.ncgr.org:50080/shiny/Funnotate/ -
 Development version (main) on sgr-shiny
 
 https://funnotate.legumeinfo.org -
-Production version (main)
+Production version (new-gene-families)
 
 http://dev.lis.ncgr.org:50082 -
-Development version (new-gene-families, but you could also switch back to docker-sgr) on sgr-funnotate
+Development version (new-gene-families) on sgr-funnotate
 
 ### Notes
 

@@ -4,7 +4,7 @@ Web server that computes phylogenetic trees for gene families. Used by [Funnotat
 
 ### GitHub branches
 
-[main](https://github.com/legumefederation/lorax) -
+[master](https://github.com/legumefederation/lorax) -
 Original containerized version. Uses the `legfed_v1_0.L_xxxxxx` gene families.
 
 [separate-gene-family-data](https://github.com/LegumeFederation/lorax/tree/separate-gene-family-data) -
@@ -13,7 +13,7 @@ Should have the form `/falafel/lorax/data_<gene_family_subdirectory>_<hostname>`
 for example `data_legume.fam1.M65K_sgr-funnotate` which is where the `legfed_v1_0.L_xxxxxx` gene family data live.
 
 [new-gene-families](https://github.com/legumefederation/lorax/tree/new-gene-families) -
-Uses the `Legume_fam3_nnnnn` gene families, in `data_legume.fam3.VLMQ_sgr-funnotate`.
+Now handles both the `Legume_fam3_nnnnn` and `legfed_v1_0.L_xxxxxx` gene families, in `data_sgr-funnotate`.
 
 I think the idea is not to eventually merge the branches, but to choose one in `docker-compose.yml`.
 
@@ -26,7 +26,7 @@ I think the idea is not to eventually merge the branches, but to choose one in `
 
 Check out the appropriate branch and run `sudo docker compose up -d [--build] [--force-recreate]`.
 
-Currently running on sgr-shiny, funnotate-vm, and sgr-funnotate.
+Currently running on sgr-shiny (`master` branch), funnotate-vm (`new-gene-families`), and sgr-funnotate (`new-gene-families`).
 
 ### Installing pristine data
 
