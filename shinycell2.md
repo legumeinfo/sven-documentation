@@ -10,10 +10,10 @@ See the `README` for discussion of our LIS changes.
 Running instances:
 
 _Medicago truncatula_ - _Meliloti_ vs. Mock Inoculated Root
-<br/>(dev) http://dev.lis.ncgr.org:50083
+<br/>(dev) http://dev.lis.ncgr.org:50088
 
 _Glycine max_ - Nodules vs. Root Seedlings
-<br/>(dev) http://dev.lis.ncgr.org:50084
+<br/>(dev) http://dev.lis.ncgr.org:50089
 
 ### Notes
 
