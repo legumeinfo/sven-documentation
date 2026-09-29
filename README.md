@@ -23,9 +23,9 @@ Notes on my work, through March 2026.
 
 ### VMs
 
-* sgr-shiny (50080)
-* sgr-lisgis (50081)
-* sgr-funnotate (50082)
+* sgr-lisgis (50080)
+* sgr-funnotate (50081)
+* sgr-shiny (50083)
 * funnotate-vm
 
 All now have a 'legumista' account. The one on funnotate-vm has no home directory.

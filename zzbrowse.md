@@ -16,7 +16,7 @@ Articles
 
 ### Running instances
 
-[Development](http://dev.lis.ncgr.org:50071/shiny/ZZBrowse/) (on dev-zzbrowse, 50071)
+[Development](http://dev.lis.ncgr.org:50083/shiny/ZZBrowse/) (on sgr-shiny)
 
 [Production](https://zzbrowse.legumeinfo.org)
 

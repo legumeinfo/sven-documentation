@@ -7,7 +7,7 @@ LIS Germplasm Map with accession data from a BrAPI endpoint.
 
 ### Running instance
 
-http://sgr-lisgis.lis.ncgr.org:8000
+http://dev.lis.ncgr.org:50080
 
 ### Notes
 

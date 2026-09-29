@@ -18,13 +18,10 @@ I think the idea is not to eventually merge the branches, but to choose one in `
 
 ### Running instances
 
-http://dev.lis.ncgr.org:50080/shiny/Funnotate/ -
-Development version (main) on sgr-shiny
-
 https://funnotate.legumeinfo.org -
 Production version (new-gene-families)
 
-http://dev.lis.ncgr.org:50082 -
+http://dev.lis.ncgr.org:50081 -
 Development version (new-gene-families) on sgr-funnotate
 
 ### Notes
