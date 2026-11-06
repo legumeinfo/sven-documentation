@@ -30,14 +30,3 @@ while their Docker files live under
 ```
 /falafel/svengato/shinycell/<your-ShinyCell2-application>/docker/
 ```
-
-### To do
-
-Add **more** datasets for **more** species.
-
-Ability to POST a longer list of genes as default choices for the Gene Name dropdown menus, and use genes[1] and genes[2] in place of gene1 &amp; gene2.
-
-Fix whatever is causing the warning messages (visible in the R console when running locally, and probably in the shiny-server logs).
-**Update:** The pull requests mentioned above would fix some of these.
-
-Get it to handle ATAC-seq data and generate the Track Plot panel.
