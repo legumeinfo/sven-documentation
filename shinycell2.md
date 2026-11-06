@@ -2,6 +2,8 @@
 
 Interactive web applications for single-cell data. (LIS fork)
 
+Running instances are at https://shinycell.legumeinfo.org
+
 ### Links
 
 [GitHub repository](https://github.com/legumeinfo/ShinyCell2) -
@@ -17,16 +19,6 @@ Cleans up some problems with the application layout [(pull request)](https://git
 
 lis<br>
 Our LIS changes.
-
-#### Running instances
-
-_Medicago truncatula_ - _Meliloti_ vs. Mock Inoculated Root
-<br/>https://shinycell.legumeinfo.org/medtr.A17.gnm5.ann1_6.expr.Cervantes-Perez_Thibivilliers_2022-shinycell2/
-<!-- <br/>(dev) http://dev.lis.ncgr.org:50088 -->
-
-_Glycine max_ - Nodules vs. Root Seedlings
-<br/>https://shinycell.legumeinfo.org/glyma.Wm82.gnm2.ann1.expr.Cervantes-Perez_Zogli_2024-shinycell2/
-<!-- <br/>(dev) http://dev.lis.ncgr.org:50089 -->
 
 ### Notes
 
